@@ -18,7 +18,7 @@
 
 <h1>👩🏻‍💻 Secondary Languages</h1>
 <p>
-  <a href="https://learn.microsoft.com/ru-ru/cpp/c-language/c-language-reference?view=msvc-170"><img src="./Icons/C.svg" width="48"/></a>
+  <a href="https://learn.microsoft.com/ru-ru/cpp/c-language/?view=msvc-170"><img src="./Icons/C.svg" width="48"/></a>
   <a href="https://www.python.org/"><img src="./Icons/Python.svg" width="48"/></a>
   <a href="https://www.php.net/"><img src="./Icons/PHP.svg" width="48"/></a>
   <a href="https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src="./Icons/HTML.svg" width="48"/></a>
