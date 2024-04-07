@@ -56,6 +56,6 @@
 
 <h1>💬 Contacts</h1>
 <p>
-    <a href="https://t.me/kisxlka"><img src="./Icons/Telegram.svg" style="margin-right: 10px;"/></a>
-    <a href="https://discordapp.com/users/1013231151177023559"><img src="./Icons/Discord.svg" style="margin-right: 10px;"/></a>
+    <a href="https://t.me/kisxlka"><img src="./Icons/Telegram-Square.svg" style="margin-right: 10px;"/></a>
+    <a href="https://discordapp.com/users/1013231151177023559"><img src="./Icons/Discord-Square.svg" style="margin-right: 10px;"/></a>
 </p>
