@@ -6,6 +6,8 @@
   My name is Roman and I'm from <img src="./Icons/RussianFlag.png" width="18"/> <b>Russian Federation</b>.
   <br/>I'm a information systems specialist and an ethical hacker.
   <br/>I work as a backend software developer, but I'm also into frontend development as well.
+  <br/>I'm engaged in the development of applications for both desktop and mobile devices on various platforms.
+  <br/>I'm a specialist in designing information systems and drafting technical specifications.
 </p>
 
 <h1>👩🏻‍💻 Primary Languages</h1>
