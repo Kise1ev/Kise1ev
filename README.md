@@ -7,7 +7,7 @@
   <br/>I'm an information systems specialist and an ethical hacker.
   <br/>My primary work revolves around backend software development, though I also have a keen interest in frontend development.
   <br/>I'm involved in crafting applications for both desktop and mobile devices across various platforms.
-  <br/>Additionally, I specialize in designing information systems and drafting technical specifications.
+  <br/>Additionally, I specialize in designing information systems and drafting requirement specifications.
 </p>
 
 <h1>👩🏻‍💻 Primary Languages</h1>
