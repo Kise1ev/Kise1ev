@@ -16,6 +16,7 @@
   <a href="https://learn.microsoft.com/ru-ru/cpp/cpp/?view=msvc-170"><img src="./Icons/CPP.svg" width="48"/></a>
   <a href="https://www.java.com/en/"><img src="./Icons/Java.svg" width="48"/></a>
   <a href="https://kotlinlang.org/"><img src="./Icons/Kotlin.svg" width="48"/></a>
+  <a href="https://www.swift.com/"><img src="./Icons/Swift.svg" width="48"/></a>
 </p>
 
 <h1>👩🏻‍💻 Secondary Languages</h1>
@@ -45,6 +46,7 @@
 <p>
   <a href="https://visualstudio.microsoft.com/downloads/"><img src="./Icons/VisualStudio.svg" width="48"/></a>
   <a href="https://www.jetbrains.com/ru-ru/idea/"><img src="./Icons/Idea.svg" width="48"/></a>
+  <a href="https://developer.apple.com/xcode/"><img src="./Icons/XCode.svg" width="48"/></a>
   <a href="https://developer.android.com/studio"><img src="./Icons/AndroidStudio.svg" width="48"/></a>
   <a href="https://www.jetbrains.com/pycharm/"><img src="./Icons/PyCharm.svg" width="48"/></a>
   <a href="https://www.jetbrains.com/phpstorm/"><img src="./Icons/PhpStorm.svg" width="48"/></a>
