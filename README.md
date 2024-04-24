@@ -6,7 +6,7 @@
   My name is Roman, and I hail from <img src="./Icons/RussianFlag.png" width="18"/> <b>Russian Federation</b>.
   <br/>I'm an information systems specialist and an ethical hacker.
   <br/>My primary work revolves around backend software development, though I also have a keen interest in frontend development.
-  <br/>I'm involved in crafting applications for both desktop and mobile devices across various platforms.
+  <br/>I'm involved in crafting applications for both desktop and mobile devices across various platforms, specializing in Android and iOS for mobile.
   <br/>Additionally, I specialize in designing information systems and drafting requirement specifications.
 </p>
 
