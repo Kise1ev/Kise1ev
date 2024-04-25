@@ -16,7 +16,7 @@
   <a href="https://learn.microsoft.com/ru-ru/cpp/cpp/?view=msvc-170"><img src="./Icons/CPP.svg" width="48"/></a>
   <a href="https://www.java.com/en/"><img src="./Icons/Java.svg" width="48"/></a>
   <a href="https://kotlinlang.org/"><img src="./Icons/Kotlin.svg" width="48"/></a>
-  <a href="https://www.swift.com/"><img src="./Icons/Swift.svg" width="48"/></a>
+  <a href="https://www.swift.org/"><img src="./Icons/Swift.svg" width="48"/></a>
 </p>
 
 <h1>👩🏻‍💻 Secondary Languages</h1>
