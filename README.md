@@ -30,7 +30,6 @@
   <a href="https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src="./Icons/HTML.svg" width="48"/></a>
   <a href="https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics"><img src="./Icons/CSS.svg" width="48"/></a>
   <a href="https://dart.dev/"><img src="./Icons/Dart.svg" width="48"/></a>
-  <a href="https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics"><img src="./Icons/CSS.svg" width="48"/></a>
 </p>
 
 <h1>⚙️ DevOps and Version Control Systems</h1>
