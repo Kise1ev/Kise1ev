@@ -71,7 +71,8 @@
 <h1>⚙️ Image Processing and Computer Vision Libraries</h1>
 <p>
   <a href="https://opencv.org/"><img src="./Icons/OpenCV.svg" width="48" alt="OpenCV"/></a>
-  <a href="https://www.tensorflow.org/"><img src="./Icons/TensorFlow.svg" width="48" alt="OpenCV"/></a>
+  <a href="https://www.tensorflow.org/"><img src="./Icons/TensorFlow.svg" width="48" alt="TensorFlow"/></a>
+  <a href="https://docs.ultralytics.com/ru"><img src="./Icons/YoloV8.svg" width="48" alt="YoloV8"/></a>
 </p>
 
 <h1>⚡ IDE</h1>
