@@ -64,6 +64,7 @@
 <p>
   <a href="https://elysiajs.com/"><img src="./Icons/Elysia.svg" width="48" alt="Elysia"/></a>
   <a href="https://expressjs.com/"><img src="./Icons/ExpressJS.svg" width="48" alt="Express.js"/></a>
+  <a href="https://fastify.dev/"><img src="./Icons/Fastify.svg" width="48" alt="Fastify"/></a>
   <a href="https://flutter.dev/"><img src="./Icons/Flutter.svg" width="48" alt="Flutter"/></a>
 </p>
 
