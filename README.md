@@ -11,6 +11,12 @@
   <br/>I'm deeply involved in the development of neural networks.
 </p>
 
+<h1>📈 GitHub Stats</h1>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kise1ev&show_icons=true&theme=dark" alt="Github Stats logo" style="margin-right: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kise1ev&layout=compact&theme=dark" alt="Language Stats logo"/>
+</p>
+
 <h1>👩🏻‍💻 Primary Languages</h1>
 <p>
   <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/"><img src="./Icons/CS.svg" width="48"/></a>
@@ -85,12 +91,6 @@
   <a href="https://www.jetbrains.com/pycharm/"><img src="./Icons/PyCharm.svg" width="48"/></a>
   <a href="https://www.jetbrains.com/phpstorm/"><img src="./Icons/PhpStorm.svg" width="48"/></a>
   <a href="https://www.figma.com/"><img src="./Icons/Figma.svg" width="48"/></a>
-</p>
-
-<h1>📈 GitHub Stats</h1>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kise1ev&show_icons=true&theme=dark" alt="Github Stats logo" style="margin-right: 20px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kise1ev&layout=compact&theme=dark" alt="Language Stats logo"/>
 </p>
 
 <h1>💬 Contacts</h1>
